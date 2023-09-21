@@ -2,7 +2,7 @@
 <img src="./AV-banner.png" width="1080px">
 </div>
 <h1 align="center">Hi 👋, I'm Abhilash Virat</h1>
-<h3 align="center">Experienced full-stack Software Engineer, primary languages in React, Node & React-Native</h3>
+<h3 align="center">Experienced full-stack Software Engineer, primary working on React, Node & React-Native</h3>
 
 - 🌱 I’m currently learning **Python**
 
