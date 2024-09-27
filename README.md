@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, React-Native & Node**
+- 💬 Ask me about **React, React-Native, Angular & Node**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhilashsinh-virat/**
 
